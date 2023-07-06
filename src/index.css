@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Background Color */
+.bgPurple{
+  background-color: #9c5bf5;
+}
+
+.textPurple{
+  color: #9c5bf5;
+}

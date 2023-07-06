@@ -1,0 +1,6 @@
+.bgImage{
+    background-image: url(../src/assets/bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+  }
